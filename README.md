@@ -31,8 +31,8 @@ Untuk menjalankan project ini, Anda harus mengikuti langkah-langkah umum ini:
                      . Lalu buka direktori application/config dan konfigurasikan
                      berkas config.php dan database.php sesuai dengan kebutuhan Anda
 
-3. Tentukan rute:    Atur rute di berkas "application/config/routes.php" untuk memetakan URL
-                     ke kontroler dan metode tertentu.
+3. Tentukan rute:    Atur rute di berkas "application/config/routes.php" untuk memetakan
+                     URL ke kontroler dan metode tertentu.
 
 4. Jalankan:         Anda dapat menguji situs web CodeIgniter Anda secara lokal
                      dengan mengaksesnya melalui peramban web. Gunakan URL yang dipetakan
